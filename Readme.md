@@ -19,3 +19,7 @@ Parancsorban való megvalósítás PAT-el:
 - feltesszük a távoli repoba(első push-oláskor meg kell mondani a branch nevét is): 
   - **git push -u origin master**
 - ellenőrizzük a GitHub oldalán
+
+Publikálás:
+- Settings > Pages > Branch: master
+- [Color Game](https://mkatay.github.io/colorGame/)
